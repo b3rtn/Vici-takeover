@@ -4,7 +4,7 @@ from colorama import Fore, Style
 
 print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 print(" ")
-print("Conectadose a los servidores realizando query, timeout de 5 segundos ")
+print("Conectadose a los servidores realizando query, timeout de 3 segundos ")
 print(" ")
 print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 
